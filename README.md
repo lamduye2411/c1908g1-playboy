@@ -1,1 +1,6 @@
-# c1908g1-playboy
+# Thông tin nhóm
+PlayBoy
+01, Nguyễn Thị Lâm Duyên,  (chưa có thẻ)
+02,
+03,
+04,
